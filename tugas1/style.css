@@ -1,0 +1,52 @@
+.segitiga1-pertama {
+    width: 100px;
+    background-color: salmon;
+    border: 2px solid black;
+}
+
+.segitiga1-kedua {
+    width: 100px;
+    background-color: salmon;
+    border: 2px solid black;
+}
+
+.segitiga2-kedua {
+    width: 100px;
+    background-color: salmon;
+    border: 2px solid black;
+}
+
+.segitiga1-ketiga {
+    width: 100px;
+    background-color: salmon;
+    border: 2px solid black;
+}
+
+.segitiga2-ketiga {
+    width: 100px;
+    background-color: salmon;
+    border: 2px solid black;
+}
+
+.segitiga3-ketiga {
+    width: 100px;
+    background-color: salmon;
+    border: 2px solid black;
+}
+
+.segitiga-pertama {
+    text-align: center;
+    line-height: 100px;
+}
+
+.segitiga-kedua {
+    text-align: center;
+    line-height: 100px;
+    display: flex;
+}
+
+.segitiga-ketiga {
+    text-align: center;
+    line-height: 100px;
+    display: flex;
+}
